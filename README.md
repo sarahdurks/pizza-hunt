@@ -1,1 +1,2 @@
-# pizza-hunt 
+# Pizza Hunt
+MongoDB assignment.
